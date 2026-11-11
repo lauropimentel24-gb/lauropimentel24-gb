@@ -4,6 +4,14 @@ Crio aplicativos web que resolvem problemas reais do dia a dia: rotina pessoal, 
 
 ## Projetos
 
+<p align="center">
+  <a href="https://github.com/lauropimentel24-gb/kairos"><img src="https://raw.githubusercontent.com/lauropimentel24-gb/kairos/main/docs/demo.gif" alt="Kairós" width="240"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lauropimentel24-gb/atlas-training-pro"><img src="https://raw.githubusercontent.com/lauropimentel24-gb/atlas-training-pro/main/docs/demo.gif" alt="ATLAS Training Pro" width="240"></a>
+</p>
+<p align="center"><b>Kairós</b> &nbsp;·&nbsp; <b>ATLAS Training Pro</b></p>
+
+
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [**Kairós**](https://github.com/lauropimentel24-gb/kairos) · [abrir app](https://lauropimentel24-gb.github.io/kairos/) | App de organização pessoal para celular: tarefas, agenda, hábitos, estudos e metas, com exportação em PDF e backup. | HTML, CSS, JavaScript, jsPDF |
