@@ -6,7 +6,7 @@ Crio aplicativos web que resolvem problemas reais do dia a dia: rotina pessoal, 
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [**Kairós**](https://github.com/lauropimentel24-gb/kairos) | App de organização pessoal para celular: tarefas, agenda, hábitos, estudos e metas, com exportação em PDF e backup. | HTML, CSS, JavaScript, jsPDF |
+| [**Kairós**](https://github.com/lauropimentel24-gb/kairos) · [abrir app](https://lauropimentel24-gb.github.io/kairos/) | App de organização pessoal para celular: tarefas, agenda, hábitos, estudos e metas, com exportação em PDF e backup. | HTML, CSS, JavaScript, jsPDF |
 | [**ATLAS Training Pro**](https://github.com/lauropimentel24-gb/atlas-training-pro) · [abrir app](https://lauropimentel24-gb.github.io/atlas-training-pro/) | PWA para registrar treinos, acompanhar a evolução física e gerenciar alunos, com backup opcional na nuvem. | HTML, CSS, JavaScript, PWA, Supabase |
 | **Controle de estoque e contêineres** | Painel operacional para estoque e devolução de contêineres vazios, com validação ISO 6346, relatório de turno em PDF e modo TV. Código privado; demo com dados fictícios sob pedido. | HTML, CSS, JavaScript, SheetJS, jsPDF |
 
