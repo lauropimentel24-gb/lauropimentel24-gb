@@ -1,32 +1,31 @@
+<img src="assets/banner.jpg" alt="Lauro Pimentel. Desenvolvimento web e logística." width="1100">
+
 # Lauro Pimentel
 
-Crio aplicativos web que resolvem problemas reais do dia a dia: rotina pessoal, treinos e controle operacional em logística. Uso inteligência artificial como ferramenta de desenvolvimento, e reviso e testo tudo o que entrego.
+Crio aplicativos web para rotina, treinos e operações de logística. Em Fortaleza, trabalho com apoio ao planejamento operacional e indicadores. Uso IA como ferramenta de desenvolvimento e reviso e testo o que entrego.
 
-## Projetos
+[LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/)
 
-<p align="center">
-  <a href="https://github.com/lauropimentel24-gb/kairos"><img src="https://raw.githubusercontent.com/lauropimentel24-gb/kairos/main/docs/demo.gif" alt="Kairós" width="240"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/lauropimentel24-gb/atlas-training-pro"><img src="https://raw.githubusercontent.com/lauropimentel24-gb/atlas-training-pro/main/docs/demo.gif" alt="ATLAS Training Pro" width="240"></a>
-</p>
-<p align="center"><b>Kairós</b> &nbsp;·&nbsp; <b>ATLAS Training Pro</b></p>
+## Projetos em destaque
 
+<a href="https://github.com/lauropimentel24-gb/kairos"><img src="assets/kairos.jpg" width="46%" alt="Kairós, app de organização pessoal"></a>
+<a href="https://github.com/lauropimentel24-gb/atlas-training-pro"><img src="assets/atlas.jpg" width="46%" alt="ATLAS Training Pro, app de treinos e evolução"></a>
 
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| [**Kairós**](https://github.com/lauropimentel24-gb/kairos) · [abrir app](https://lauropimentel24-gb.github.io/kairos/) | App de organização pessoal para celular: tarefas, agenda, hábitos, estudos e metas, com exportação em PDF e backup. | HTML, CSS, JavaScript, jsPDF |
-| [**ATLAS Training Pro**](https://github.com/lauropimentel24-gb/atlas-training-pro) · [abrir app](https://lauropimentel24-gb.github.io/atlas-training-pro/) | PWA para registrar treinos, acompanhar a evolução física e gerenciar alunos, com backup opcional na nuvem. | HTML, CSS, JavaScript, PWA, Supabase |
-| **Controle de estoque e contêineres** | Painel operacional para estoque e devolução de contêineres vazios, com validação ISO 6346, relatório de turno em PDF e modo TV. Código privado; demo com dados fictícios sob pedido. | HTML, CSS, JavaScript, SheetJS, jsPDF |
+| Projeto | O que você encontra | Links |
+| --- | --- | --- |
+| **Kairós** | Tarefas, agenda, hábitos, estudos e metas em um app instalável que funciona offline. | [Abrir app](https://lauropimentel24-gb.github.io/kairos/) · [Código](https://github.com/lauropimentel24-gb/kairos) |
+| **ATLAS Training Pro** | Registro de treinos, evolução por exercício, fichas de alunos e backup opcional com Supabase. | [Abrir app](https://lauropimentel24-gb.github.io/atlas-training-pro/) · [Código](https://github.com/lauropimentel24-gb/atlas-training-pro) |
+| **Controle de estoque e contêineres** | Painel para estoque e devolução de contêineres vazios, com validação ISO 6346, relatórios em PDF e modo TV. | Projeto privado · [Solicitar demo no LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/) |
 
 ## Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- **Interface e lógica:** HTML, CSS e JavaScript.
+- **Instalação e acesso offline:** PWA, manifest e service worker.
+- **Dados e relatórios:** Supabase, jsPDF e SheetJS.
+- **Versionamento e publicação:** Git e GitHub Pages.
 
-## Contato
+## Formação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro-pimentelgb/)
+Estudo desenvolvimento de software, programação web e banco de dados na Descomplica Faculdade Digital. Minha formação complementar inclui DevOps Strategist e Lean Seis Sigma Yellow Belt.
+
+Para conversar sobre oportunidades ou projetos, [fale comigo no LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/).
