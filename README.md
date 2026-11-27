@@ -32,15 +32,13 @@ Usamos React, Next.js e TypeScript na interface, PostgreSQL para os dados e Play
 
 </details>
 
-## Ferramentas que uso
+<h2 align="center">Tecnologias e ferramentas</h2>
 
-<img src="assets/stack/next.svg" alt="Next.js" title="Next.js" width="34" height="34"> &nbsp;
-<img src="assets/stack/react.svg" alt="React" title="React" width="34" height="34"> &nbsp;
-<img src="assets/stack/ts.svg" alt="TypeScript" title="TypeScript" width="34" height="34"> &nbsp;
-<img src="assets/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="34" height="34"> &nbsp;
-<img src="assets/stack/supabase.svg" alt="Supabase" title="Supabase" width="34" height="34"> &nbsp;
-<img src="assets/stack/playwright.svg" alt="Playwright" title="Playwright" width="34" height="34"> &nbsp;
-<img src="assets/stack/vitest.svg" alt="Vitest" title="Vitest" width="34" height="34"> &nbsp;
-<img src="assets/stack/actions.svg" alt="GitHub Actions" title="GitHub Actions" width="34" height="34"> &nbsp;
-
-Uso React, Next.js e TypeScript na interface, PostgreSQL e Supabase na camada de dados e Playwright, Vitest e GitHub Actions para testar e integrar mudanças.
+<p align="center">
+  <a href="https://lauro-pimentel.rhythmicmound8.chatgpt.site/#tecnologias">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/stack/ola.png">
+      <img width="640" src="assets/stack/ola.gif" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, PostgreSQL, Supabase, PWA, Playwright, Vitest, GitHub Actions. Ver as tecnologias no portfólio.">
+    </picture>
+  </a>
+</p>
