@@ -1,31 +1,34 @@
-<img src="assets/banner.jpg" alt="Lauro Pimentel. Desenvolvimento web e logística." width="1100">
+<a href="https://lauro-pimentel.rhythmicmound8.chatgpt.site/"><img src="assets/perfil.svg" width="100%" alt="Lauro Pimentel · Desenvolvedor full stack. Abrir portfólio"></a>
 
-# Lauro Pimentel
+Sou desenvolvedor full stack formado pela **OneBitCode**. Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Descomplica e estudo **Engenharia de IA** na DascIA.
 
-Crio aplicativos web para rotina, treinos e operações de logística. Em Fortaleza, trabalho com apoio ao planejamento operacional e indicadores. Uso IA como ferramenta de desenvolvimento e reviso e testo o que entrego.
+[Portfólio](https://lauro-pimentel.rhythmicmound8.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/) · [E-mail](mailto:lauropimentel24@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/)
+## TB Connect
 
-## Projetos em destaque
+Fundei o **TB Connect** para facilitar as auditorias de campo do Grupo TB. Desenvolvi a plataforma com Arthur. A equipe consulta procedimentos oficiais, preenche checklists e registra fotos mesmo quando perde o sinal. Ao recuperar a conexão, o sistema sincroniza os registros.
 
-<a href="https://github.com/lauropimentel24-gb/kairos"><img src="assets/kairos.jpg" width="46%" alt="Kairós, app de organização pessoal"></a>
-<a href="https://github.com/lauropimentel24-gb/atlas-training-pro"><img src="assets/atlas.jpg" width="46%" alt="ATLAS Training Pro, app de treinos e evolução"></a>
+**Next.js · React · TypeScript · PostgreSQL · Playwright**
 
-| Projeto | O que você encontra | Links |
+[Ver a interface e explorar os fluxos no portfólio →](https://lauro-pimentel.rhythmicmound8.chatgpt.site/#tb-connect)
+
+## Outros projetos
+
+| Projeto | O que desenvolvi | Experimente |
 | --- | --- | --- |
-| **Kairós** | Tarefas, agenda, hábitos, estudos e metas em um app instalável que funciona offline. | [Abrir app](https://lauropimentel24-gb.github.io/kairos/) · [Código](https://github.com/lauropimentel24-gb/kairos) |
-| **ATLAS Training Pro** | Registro de treinos, evolução por exercício, fichas de alunos e backup opcional com Supabase. | [Abrir app](https://lauropimentel24-gb.github.io/atlas-training-pro/) · [Código](https://github.com/lauropimentel24-gb/atlas-training-pro) |
-| **Controle de estoque e contêineres** | Painel para estoque e devolução de contêineres vazios, com validação ISO 6346, relatórios em PDF e modo TV. | Projeto privado · [Solicitar demo no LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/) |
+| [**Kairós**](https://github.com/lauropimentel24-gb/kairos) | Um app instalável que reúne tarefas, agenda, estudos e hábitos e funciona offline. | [Abrir Kairós](https://lauropimentel24-gb.github.io/kairos/) |
+| [**ATLAS Training Pro**](https://github.com/lauropimentel24-gb/atlas-training-pro) | Registro de treinos, fichas de alunos e acompanhamento da evolução por exercício. | [Abrir ATLAS](https://lauropimentel24-gb.github.io/atlas-training-pro/) |
+| **Controle de Estoque CFS** | Painel de estoque e devolução de contêineres com validação ISO 6346, relatório de turno e modo TV. | [Abrir demonstração](https://lauro-pimentel.rhythmicmound8.chatgpt.site/projetos/controle-estoque-cfs/demo/index.html) |
 
-## Tecnologias
+## Ferramentas que uso
 
-- **Interface e lógica:** HTML, CSS e JavaScript.
-- **Instalação e acesso offline:** PWA, manifest e service worker.
-- **Dados e relatórios:** Supabase, jsPDF e SheetJS.
-- **Versionamento e publicação:** Git e GitHub Pages.
+<img src="assets/stack/next.svg" alt="Next.js" title="Next.js" width="34" height="34"> &nbsp;
+<img src="assets/stack/react.svg" alt="React" title="React" width="34" height="34"> &nbsp;
+<img src="assets/stack/ts.svg" alt="TypeScript" title="TypeScript" width="34" height="34"> &nbsp;
+<img src="assets/stack/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="34" height="34"> &nbsp;
+<img src="assets/stack/supabase.svg" alt="Supabase" title="Supabase" width="34" height="34"> &nbsp;
+<img src="assets/stack/playwright.svg" alt="Playwright" title="Playwright" width="34" height="34"> &nbsp;
+<img src="assets/stack/vitest.svg" alt="Vitest" title="Vitest" width="34" height="34"> &nbsp;
+<img src="assets/stack/actions.svg" alt="GitHub Actions" title="GitHub Actions" width="34" height="34"> &nbsp;
 
-## Formação
-
-Estudo desenvolvimento de software, programação web e banco de dados na Descomplica Faculdade Digital. Minha formação complementar inclui DevOps Strategist e Lean Seis Sigma Yellow Belt.
-
-Para conversar sobre oportunidades ou projetos, [fale comigo no LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/).
+Uso React, Next.js e TypeScript na interface, PostgreSQL e Supabase na camada de dados e Playwright, Vitest e GitHub Actions para testar e integrar mudanças.
