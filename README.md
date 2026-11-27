@@ -1,24 +1,36 @@
-<a href="https://lauro-pimentel.rhythmicmound8.chatgpt.site/"><img src="assets/perfil.svg" width="100%" alt="Lauro Pimentel · Desenvolvedor full stack. Abrir portfólio"></a>
+<a href="https://lauro-pimentel.rhythmicmound8.chatgpt.site/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/arcade/estudio.png"><img width="100%" src="assets/arcade/estudio.gif" alt="Lauro Pimentel, desenvolvedor full stack, no notebook ao lado de um gato de pixel art dormindo. Abrir portfólio."></picture></a>
 
-Sou desenvolvedor full stack formado pela **OneBitCode**. Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Descomplica e estudo **Engenharia de IA** na DascIA.
+Formado em desenvolvimento full stack pela **OneBitCode**. Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Descomplica e estudo **Engenharia de IA** na DascIA.
 
 [Portfólio](https://lauro-pimentel.rhythmicmound8.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/lauro-pimentelgb/) · [E-mail](mailto:lauropimentel24@gmail.com)
 
-## TB Connect
+<a href="https://lauropimentel24-gb.github.io/lauropimentel24-gb/arcade/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/arcade/arcade.png"><img width="100%" src="assets/arcade/arcade.gif" alt="Pac-Man atravessa meu calendário de contribuições perseguido por três fantasmas. Clique para jogar ou consultar um dia."></picture></a>
 
-Fundei o **TB Connect** para facilitar as auditorias de campo do Grupo TB. Desenvolvi a plataforma com Arthur. A equipe consulta procedimentos oficiais, preenche checklists e registra fotos mesmo quando perde o sinal. Ao recuperar a conexão, o sistema sincroniza os registros.
+[▶ Jogar com teclado ou toque e explorar os quadradinhos](https://lauropimentel24-gb.github.io/lauropimentel24-gb/arcade/)
 
-**Next.js · React · TypeScript · PostgreSQL · Playwright**
+## Projetos
 
-[Ver a interface e explorar os fluxos no portfólio →](https://lauro-pimentel.rhythmicmound8.chatgpt.site/#tb-connect)
+<a href="https://lauro-pimentel.rhythmicmound8.chatgpt.site/#tb-connect"><img width="49%" src="assets/arcade/tb.png" alt="TB Connect · explorar a plataforma de auditoria"></a>
+<a href="https://lauropimentel24-gb.github.io/kairos/"><img width="49%" src="assets/arcade/kairos.png" alt="Kairós · abrir app de organização pessoal"></a>
+<a href="https://lauropimentel24-gb.github.io/atlas-training-pro/"><img width="49%" src="assets/arcade/atlas.png" alt="ATLAS Training Pro · abrir app de treinos"></a>
+<a href="https://lauro-pimentel.rhythmicmound8.chatgpt.site/projetos/controle-estoque-cfs/demo/index.html"><img width="49%" src="assets/arcade/cfs.png" alt="Controle de Estoque CFS · abrir demonstração"></a>
 
-## Outros projetos
+<details>
+<summary><strong>Como construímos o TB Connect</strong></summary>
 
-| Projeto | O que desenvolvi | Experimente |
-| --- | --- | --- |
-| [**Kairós**](https://github.com/lauropimentel24-gb/kairos) | Um app instalável que reúne tarefas, agenda, estudos e hábitos e funciona offline. | [Abrir Kairós](https://lauropimentel24-gb.github.io/kairos/) |
-| [**ATLAS Training Pro**](https://github.com/lauropimentel24-gb/atlas-training-pro) | Registro de treinos, fichas de alunos e acompanhamento da evolução por exercício. | [Abrir ATLAS](https://lauropimentel24-gb.github.io/atlas-training-pro/) |
-| **Controle de Estoque CFS** | Painel de estoque e devolução de contêineres com validação ISO 6346, relatório de turno e modo TV. | [Abrir demonstração](https://lauro-pimentel.rhythmicmound8.chatgpt.site/projetos/controle-estoque-cfs/demo/index.html) |
+Fundei o TB Connect para facilitar as auditorias de campo do Grupo TB. Desenvolvi a plataforma com Arthur. Quem audita pode consultar procedimentos, preencher checklists e registrar fotos mesmo quando perde o sinal. Os registros são sincronizados quando a conexão volta.
+
+Usamos React, Next.js e TypeScript na interface, PostgreSQL para os dados e Playwright para testar fluxos como a perda de conexão. [Ver demonstração e decisões técnicas](https://lauro-pimentel.rhythmicmound8.chatgpt.site/#tb-connect)
+
+</details>
+
+<details>
+<summary><strong>Explorar o código dos apps públicos</strong></summary>
+
+- [Kairós](https://github.com/lauropimentel24-gb/kairos) reúne agenda, estudos e hábitos em um app instalável que funciona offline.
+- [ATLAS Training Pro](https://github.com/lauropimentel24-gb/atlas-training-pro) registra treinos e organiza fichas de alunos, com backup opcional no Supabase.
+
+</details>
 
 ## Ferramentas que uso
 
